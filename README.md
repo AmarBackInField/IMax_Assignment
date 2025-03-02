@@ -61,8 +61,10 @@ project/
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/priya-ai-agent.git
-cd priya-ai-agent
+git clone https://github.com/AmarBackInField/IMax_Assignment.git
+conda create -p rec python=3.10 -y
+conda activate rec
+pip install -r requirements.txt
 ```
 
 2. Install required packages:
