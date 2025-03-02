@@ -120,6 +120,7 @@ You can customize the agent's behavior by modifying:
 - Azure Speech Services credentials are needed for text-to-speech functionality.
 - For security reasons, avoid hardcoding keys in production environments.
 
-## Contributing
+## Incomplete Things:
+Connect gogle calender api , as there is some issue with the key, So i leave it.
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+
