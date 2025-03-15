@@ -3,6 +3,9 @@
 Priya is a multilingual conversational AI sales agent built with Streamlit and powered by Google's Gemini model. The application demonstrates how AI can be used in various business contexts including sales, recruitment, and payment collection.
 <img width="919" alt="image" src="https://github.com/user-attachments/assets/1fa5262d-8b29-4dbe-a330-0f2195807a54" />
 
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/f67a2454-2590-4d44-917f-acece2aa8835" />
+
+
 ## Features
 
 ### 1. Multi-Module Conversation System
